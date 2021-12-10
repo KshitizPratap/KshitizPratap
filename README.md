@@ -6,11 +6,11 @@ I'm a Frontend web developer, a quick learner and a software enthusiast.
 ### Languages and Tools:
 
 <div align="center">
-<img height="30" src="https://raw.githubusercontent.com/Utkarsh-190/Utkarsh-190/main/assets/html.svg">
-<img height="30" src="https://raw.githubusercontent.com/Utkarsh-190/Utkarsh-190/main/assets/css.svg">
-<img height="30" src="https://raw.githubusercontent.com/Utkarsh-190/Utkarsh-190/main/assets/javascript.svg">
-<img height="30" src="https://raw.githubusercontent.com/Utkarsh-190/Utkarsh-190/main/assets/react.svg">
-<img height="30" src="https://raw.githubusercontent.com/Utkarsh-190/Utkarsh-190/main/assets/nodejs.png">
+<img height="30" padding = "0.5rem" src="https://raw.githubusercontent.com/Utkarsh-190/Utkarsh-190/main/assets/html.svg">
+<img height="30" padding = "0.5rem" src="https://raw.githubusercontent.com/Utkarsh-190/Utkarsh-190/main/assets/css.svg">
+<img height="30" padding = "0.5rem" src="https://raw.githubusercontent.com/Utkarsh-190/Utkarsh-190/main/assets/javascript.svg">
+<img height="30" padding = "0.5rem" src="https://raw.githubusercontent.com/Utkarsh-190/Utkarsh-190/main/assets/react.svg">
+<img height="30" padding = "0.5rem" src="https://raw.githubusercontent.com/Utkarsh-190/Utkarsh-190/main/assets/nodejs.png">
 </div>
 
 
