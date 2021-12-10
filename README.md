@@ -24,8 +24,7 @@ I'm a Frontend web developer, a quick learner and a software enthusiast.
 ### Connect with me  :
 
 <div align="center">
-   <a href="http://www.linkedin.com/in/utkarsh-tyagi-190" ><img src="https://raw.githubusercontent.com/Utkarsh-190/Utkarsh-190/main/assets/linkedin.svg" height="45px" />  </a>
-  <a href="mailto:utkarshtyagi62@gmail.com" ><img src="https://raw.githubusercontent.com/Utkarsh-190/Utkarsh-190/main/assets/gmail.svg" alt="Utkarsh Tyagi | Gmail" height="45px" /> </a>
-  <a href="https://twitter.com/_utkarsh_tyagi"><img src="https://raw.githubusercontent.com/Utkarsh-190/Utkarsh-190/main/assets/twitter.svg" alt="Utkarsh Tyagi | Twitter" height="45px" /> </a>
-  <a href="https://utkarsh-190.github.io/VScode-portfolio/" > <img src="https://raw.githubusercontent.com/Utkarsh-190/Utkarsh-190/main/assets/globe.png" alt="Utkarsh Tyagi | Website" height="45px"/> </a>
+   <a href="https://www.linkedin.com/in/kshitiz-pratap-singh-00b57b209/" ><img src="https://raw.githubusercontent.com/Utkarsh-190/Utkarsh-190/main/assets/linkedin.svg" height="45px" /> LinkedIn </a>
+  <a href="mailto:kshitiz100mit@gmail.com" ><img src="https://raw.githubusercontent.com/Utkarsh-190/Utkarsh-190/main/assets/gmail.svg" alt="Utkarsh Tyagi | Gmail" height="45px" /> Gmail </a>
+  <a href="https://kshitizpratap.github.io/VS-Portfolio/" > <img src="https://raw.githubusercontent.com/Utkarsh-190/Utkarsh-190/main/assets/globe.png" alt="Utkarsh Tyagi | Website" height="45px"/> Portfolio </a>
 </div>
