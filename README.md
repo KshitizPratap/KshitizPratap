@@ -1,6 +1,6 @@
 ## Hi I'm Kshitiz <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Kshitiz Pratap Singh a Frontend web developer, a quick learner and a software enthusiast.
+I'm a Frontend web developer, a quick learner and a software enthusiast. 
 
 
 ### Languages and Tools:
@@ -16,9 +16,9 @@ I'm Kshitiz Pratap Singh a Frontend web developer, a quick learner and a softwar
 
 ### Github stats:
 
-<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=utkarsh-190&show_icons=true&theme=tokyonight&hide=stars&include_all_commits=true" /> </p>
+<p align="center"> <img width="48%" src="https://github-readme-stats.vercel.app/api?username=KshitizPratap&show_icons=true&theme=tokyonight&hide=stars&include_all_commits=true" /> </p>
 
-<p align="center"> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarsh-190&theme=tokyonight" /> </p>
+<p align="center"> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=KshitizPratap&theme=tokyonight" /> </p>
   
 
 ### Connect with me  :
