@@ -31,5 +31,6 @@ I'm a Frontend web developer, a quick learner and a software enthusiast.
 
 ### Holopin badge
 <div>
+  <img src = "https://holopin.io/api/user/board?user=kshitizpratap"/ >
 [![@kshitizpratap's Holopin board](https://holopin.io/api/user/board?user=kshitizpratap)](https://holopin.io/@kshitizpratap)
 </div>
