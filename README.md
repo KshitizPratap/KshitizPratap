@@ -28,3 +28,8 @@ I'm a Frontend web developer, a quick learner and a software enthusiast.
   <a href="mailto:kshitiz100mit@gmail.com" ><img src="https://raw.githubusercontent.com/Utkarsh-190/Utkarsh-190/main/assets/gmail.svg" alt="Utkarsh Tyagi | Gmail" height="45px" padding = "0.5rem"/>  </a>
   <a href="https://kshitizpratap.github.io/VS-Portfolio/" > <img src="https://raw.githubusercontent.com/Utkarsh-190/Utkarsh-190/main/assets/globe.png" alt="Utkarsh Tyagi | Website" height="45px" padding = "0.5rem"/>  </a>
 </div>
+
+### Holopin badge
+<div>
+[![@kshitizpratap's Holopin board](https://holopin.io/api/user/board?user=kshitizpratap)](https://holopin.io/@kshitizpratap)
+</div>
