@@ -29,8 +29,8 @@ I'm a Frontend web developer, a quick learner and a software enthusiast.
   <a href="https://kshitizpratap.github.io/VS-Portfolio/" > <img src="https://raw.githubusercontent.com/Utkarsh-190/Utkarsh-190/main/assets/globe.png" alt="Utkarsh Tyagi | Website" height="45px" padding = "0.5rem"/>  </a>
 </div>
 
-### Holopin badge
+### Holopin badge :
 <div>
-  <img src = "https://holopin.io/api/user/board?user=kshitizpratap"/ >
-[![@kshitizpratap's Holopin board](https://holopin.io/api/user/board?user=kshitizpratap)](https://holopin.io/@kshitizpratap)
+  <img src = "https://holopin.io/api/user/board?user=kshitizpratap"/>
+  <img src = "https://www.holopin.io/userbadge/cl8j55ser668809mcwikvgfvx"/>
 </div>
